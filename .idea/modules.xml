@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rent.iml" filepath="$PROJECT_DIR$/rent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rentApp/rentApp.iml" filepath="$PROJECT_DIR$/rentApp/rentApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rentCms/rentCms.iml" filepath="$PROJECT_DIR$/rentCms/rentCms.iml" />
+    </modules>
+  </component>
+</project>
