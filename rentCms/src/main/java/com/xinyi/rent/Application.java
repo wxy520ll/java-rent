@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
 @RestController
-@RequestMapping(value = "/rent")
+@RequestMapping(value = "/rent/home")
 public class Application {
 
     public static void main(String[] args) {

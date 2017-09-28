@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="rentApp" />
         <module name="rentCms" />
+        <module name="rentModel" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="rent" target="1.8" />
       <module name="rentApp" target="1.8" />
       <module name="rentCms" target="1.8" />
+      <module name="rentModel" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

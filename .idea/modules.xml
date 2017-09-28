@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/rent.iml" filepath="$PROJECT_DIR$/rent.iml" />
       <module fileurl="file://$PROJECT_DIR$/rentApp/rentApp.iml" filepath="$PROJECT_DIR$/rentApp/rentApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/rentCms/rentCms.iml" filepath="$PROJECT_DIR$/rentCms/rentCms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rentModel/rentModel.iml" filepath="$PROJECT_DIR$/rentModel/rentModel.iml" />
     </modules>
   </component>
 </project>
